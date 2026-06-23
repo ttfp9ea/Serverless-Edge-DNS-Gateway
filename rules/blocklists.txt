@@ -2,7 +2,6 @@ use-application-dns.net
 mask.icloud.com
 mask-h2.icloud.com
 ntp.msn.com
-update.coccoc.com
 afl.coccoc.com
 afdk.coccoc.com
 metrics.coccoc.com
